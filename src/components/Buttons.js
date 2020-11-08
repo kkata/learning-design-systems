@@ -88,7 +88,7 @@ const BUTTON_MODIFIERS = {
 const Button = styled.button`
   padding: 12px 24px;
   font-size: ${typeScale.paragraph};
-  min-width: 100px;
+  min-width: 200px;
   cursor: pointer;
   font-family: ${(props) => props.theme.primaryFont};
   border: 1px solid ${(props) => props.theme.primaryColor};
