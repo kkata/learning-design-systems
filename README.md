@@ -21,6 +21,9 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [「Atomic Design & Design Systems」をお話させて頂きました \| よりデザイン](https://yory.design/note/dmm-designsystems/)
 - [これから始める！デザインシステム入門 \| アドビ UX 道場 \#UXDojo \| Adobe Blog](https://blogs.adobe.com/japan/cc-web-introduction-to-design-systems/)
 - [ゼロから始めるデザインシステム \- チーム開発を加速させるデザインアプローチ！ \#全文公開｜原田 佳樹 Harada Yoshiki ｜ note](https://note.com/yoshigorou/n/n102e933d4f58)
+- [デザインシステムを作る前にデザインのシステムを理解しよう : could](https://yasuhisa.com/could/article/system-of-design/)
+- [UI コンポーネント以外から始めるデザインシステム : could](https://yasuhisa.com/could/article/designsystem-components/)
+- [デザインシステムに関わるいろいろなプロセスを図にしてみた : could](https://yasuhisa.com/could/article/design-system-process/)
 
 ### Cases
 
@@ -28,9 +31,11 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [Design System への取り組み 〜Frontend 編〜 \| メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/2019-08-26-090000/)
 - [LINE はなぜデザインシステムを取り入れたのか？　フロントエンドにおける価値と定義を解説 \- ログミー Tech](https://logmi.jp/tech/articles/322259)
 - [社内システム特化なデザインシステムのメリット 〜 ヤフー社内のデザインシステム紹介 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20190828739980/)
+- [長年のデザイン課題を解決！スマホ Web 版トップページ デザインシステム導入 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/2020120530052930/)
+- [デザインシステム “Vibes” の育てかた \- freee Developers Blog](https://developers.freee.co.jp/entry/growing-vibes)
 - [デザインシステム運用の雑多な細かいはなし \- freee Developers Blog](https://developers.freee.co.jp/entry/designsystem-iroiro)
 - [がんばらないデザインシステム \- MOL](https://t32k.me/mol/log/adaptable-system/)
 - [Pairs のデザインシステムを運用してみて。デザイナー視点のツール編 🛠 \- eureka design](https://eureka.design/articles/design-system-operation/)
 - [フロントエンドエンジニアからはじめるデザインシステム \- UGAP Engineer's Blog](https://ugap.hatenablog.com/entry/2019/07/01/081300)
 - [Abstract を使ってフレキシブルな｢デザインシステム｣を組織に導入する \| Tondemo Design Blog](https://tondemodesign.com/build_design_system/)
-- [デザインシステムに関わるいろいろなプロセスを図にしてみた : could](https://yasuhisa.com/could/article/design-system-process/)
+- [UI 開発をアジャイルに行うための Atomic Design](https://www.slideshare.net/ygoto3q/atomic-design-for-agile-ui-development-100961721)
