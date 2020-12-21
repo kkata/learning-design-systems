@@ -38,4 +38,5 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [Pairs のデザインシステムを運用してみて。デザイナー視点のツール編 🛠 \- eureka design](https://eureka.design/articles/design-system-operation/)
 - [フロントエンドエンジニアからはじめるデザインシステム \- UGAP Engineer's Blog](https://ugap.hatenablog.com/entry/2019/07/01/081300)
 - [Abstract を使ってフレキシブルな｢デザインシステム｣を組織に導入する \| Tondemo Design Blog](https://tondemodesign.com/build_design_system/)
+- [フロントエンド視点：デザイナーと協業して作るスタイルガイドの難易度を下げる \| ygoto3\.com](https://ygoto3.com/posts/make-style-guide-easy/)
 - [UI 開発をアジャイルに行うための Atomic Design](https://www.slideshare.net/ygoto3q/atomic-design-for-agile-ui-development-100961721)
