@@ -20,6 +20,7 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 
 - [「Atomic Design & Design Systems」をお話させて頂きました \| よりデザイン](https://yory.design/note/dmm-designsystems/)
 - [これから始める！デザインシステム入門 \| アドビ UX 道場 \#UXDojo \| Adobe Blog](https://blogs.adobe.com/japan/cc-web-introduction-to-design-systems/)
+- [[Adobe XDとBootstrapで作業を効率化 第1回: 中小規模のサイトに有効なデザインシステムLiteとは \| アドビUX道場 \#UXDojo \| Adobe Blog](https://blogs.adobe.com/japan/adobe-xd-bootstrap-designsytem-lite/)]
 - [ゼロから始めるデザインシステム \- チーム開発を加速させるデザインアプローチ！ \#全文公開｜原田 佳樹 Harada Yoshiki ｜ note](https://note.com/yoshigorou/n/n102e933d4f58)
 - [デザインシステムを作る前にデザインのシステムを理解しよう : could](https://yasuhisa.com/could/article/system-of-design/)
 - [UI コンポーネント以外から始めるデザインシステム : could](https://yasuhisa.com/could/article/designsystem-components/)
