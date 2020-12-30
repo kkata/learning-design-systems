@@ -1,4 +1,4 @@
-# Learned design systems
+# Learning design systems
 
 at [https://frontendmasters.com/](https://frontendmasters.com/) .
 
@@ -22,6 +22,7 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [これから始める！デザインシステム入門 \| アドビ UX 道場 \#UXDojo \| Adobe Blog](https://blogs.adobe.com/japan/cc-web-introduction-to-design-systems/)
 - [[Adobe XD と Bootstrap で作業を効率化 第 1 回: 中小規模のサイトに有効なデザインシステム Lite とは \| アドビ UX 道場 \#UXDojo \| Adobe Blog](https://blogs.adobe.com/japan/adobe-xd-bootstrap-designsytem-lite/)]
 - [ゼロから始めるデザインシステム \- チーム開発を加速させるデザインアプローチ！ \#全文公開｜原田 佳樹 Harada Yoshiki ｜ note](https://note.com/yoshigorou/n/n102e933d4f58)
+- [結局デザインシステムは何なのか : could](https://yasuhisa.com/could/article/what-is-design-system/)
 - [デザインシステムを作る前にデザインのシステムを理解しよう : could](https://yasuhisa.com/could/article/system-of-design/)
 - [UI コンポーネント以外から始めるデザインシステム : could](https://yasuhisa.com/could/article/designsystem-components/)
 - [デザインシステムに関わるいろいろなプロセスを図にしてみた : could](https://yasuhisa.com/could/article/design-system-process/)
@@ -53,8 +54,9 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [デザインシステム “Vibes” の育てかた \- freee Developers Blog](https://developers.freee.co.jp/entry/growing-vibes)
 - [デザインシステム運用の雑多な細かいはなし \- freee Developers Blog](https://developers.freee.co.jp/entry/designsystem-iroiro)
 
-#### Other
+#### Others
 
+- [デザインシステムを持たない組織のこれまでの取り組みとこれからを考える｜はのめぐみ｜ note](https://note.com/featherplain/n/n4aa45eb267b6)
 - [Design System への取り組み 〜Frontend 編〜 \| メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/2019-08-26-090000/)
 - [がんばらないデザインシステム \- MOL](https://t32k.me/mol/log/adaptable-system/)
 - [Pairs のデザインシステムを運用してみて。デザイナー視点のツール編 🛠 \- eureka design](https://eureka.design/articles/design-system-operation/)
