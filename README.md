@@ -57,7 +57,6 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 #### Others
 
 - [デザインシステムを持たない組織のこれまでの取り組みとこれからを考える｜はのめぐみ｜ note](https://note.com/featherplain/n/n4aa45eb267b6)
-- [一貫性が鍵 \- Figma デザインシステムの構築方法｜ Fmoon ｜ note](https://note.com/fmoon/n/n3bda3574834e)
 - [デザインシステムの基本の基を考えていくお仕事をしています。｜みーた｜ note](https://note.com/earlgray_mk/n/n67edfbc1073b)
 - [書籍では読めないデザインシステム制作現場のリアルな課題と解決アイデア｜ Tomoyuki Arasuna ｜ note](https://note.com/arasunatomoyuki/n/nea406bd74c3f)
 - [Design System への取り組み 〜Frontend 編〜 \| メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/2019-08-26-090000/)
@@ -65,3 +64,5 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [Pairs のデザインシステムを運用してみて。デザイナー視点のツール編 🛠 \- eureka design](https://eureka.design/articles/design-system-operation/)
 - [フロントエンドエンジニアからはじめるデザインシステム \- UGAP Engineer's Blog](https://ugap.hatenablog.com/entry/2019/07/01/081300)
 - [Abstract を使ってフレキシブルな｢デザインシステム｣を組織に導入する \| Tondemo Design Blog](https://tondemodesign.com/build_design_system/)
+- [一貫性が鍵 \- Figma デザインシステムの構築方法｜ Fmoon ｜ note](https://note.com/fmoon/n/n3bda3574834e)
+- [現役デザイナー直伝！デザイン作業が爆速になる Figma プラグイン手順別まとめ \- PhotoshopVIP](https://photoshopvip.net/126844#phase6)
