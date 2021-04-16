@@ -19,8 +19,9 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 ### About design systems
 
 - [「Atomic Design & Design Systems」をお話させて頂きました \| よりデザイン](https://yory.design/note/dmm-designsystems/)
-- [これから始める！デザインシステム入門 \| アドビ UX 道場 \#UXDojo \| Adobe Blog](https://blogs.adobe.com/japan/cc-web-introduction-to-design-systems/)
-- [[Adobe XD と Bootstrap で作業を効率化 第 1 回: 中小規模のサイトに有効なデザインシステム Lite とは \| アドビ UX 道場 \#UXDojo \| Adobe Blog](https://blogs.adobe.com/japan/adobe-xd-bootstrap-designsytem-lite/)]
+- [これから始める！デザインシステム入門 \| アドビ UX 道場 \#UXDojo](https://blog.adobe.com/jp/publish/2020/04/06/cc-web-introduction-to-design-systems.html)
+- [Adobe XD と Bootstrap で作業を効率化 第 1 回: 中小規模のサイトに有効なデザインシステム Lite とは \| アドビ UX 道場 \#UXDojo](https://blog.adobe.com/jp/publish/2019/12/18/adobe-xd-bootstrap-designsytem-lite.html)
+- [Adobe XD と Bootstrap で作業を効率化 第 2 回: UI キットをデザインシステム Lite のデザインガイドに落とし込む](https://blog.adobe.com/jp/publish/2019/12/25/adobe-xd-bootstrap-designsytem-lite-2-uikit.html)
 - [ゼロから始めるデザインシステム \- チーム開発を加速させるデザインアプローチ！ \#全文公開｜原田 佳樹 Harada Yoshiki ｜ note](https://note.com/yoshigorou/n/n102e933d4f58)
 - [結局デザインシステムは何なのか : could](https://yasuhisa.com/could/article/what-is-design-system/)
 - [デザインシステムを作る前にデザインのシステムを理解しよう : could](https://yasuhisa.com/could/article/system-of-design/)
