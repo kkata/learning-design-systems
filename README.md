@@ -32,9 +32,10 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 
 #### Yahoo! JAPAN
 
-- [新規事業から大規模事業まで！デザインシステムへの向き合い方とは？ \- Bonfire Design \#3 レポート \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/event/bonfire_design_3/)
-- [社内システム特化なデザインシステムのメリット 〜 ヤフー社内のデザインシステム紹介 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20190828739980/)
+- [カオスなデザインシステムを生き返らせるためにやったこと \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/2021042130133404/)
 - [長年のデザイン課題を解決！スマホ Web 版トップページ デザインシステム導入 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/2020120530052930/)
+- [社内システム特化なデザインシステムのメリット 〜 ヤフー社内のデザインシステム紹介 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20190828739980/)
+- [新規事業から大規模事業まで！デザインシステムへの向き合い方とは？ \- Bonfire Design \#3 レポート \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/event/bonfire_design_3/)
 
 #### CyberAgent
 
@@ -43,6 +44,7 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [Ameba らしさを体現するためのデザインシステム \- Speaker Deck](https://speakerdeck.com/masatohonda/amebarasisawoti-xian-surutamefalsedezainsisutemu)
 - [「Ameba」15 年の負債を払拭するカラーパレットのメソッド \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/26754/)
 - [プロダクトの「色」と向き合う「デザインとエンジニアリング」 \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/23447/)
+- [「Ameba」アイコン刷新　一貫性と再現性追求のための設計術 \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/30048/)
 
 #### LINE
 
@@ -55,15 +57,31 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [デザインシステム “Vibes” の育てかた \- freee Developers Blog](https://developers.freee.co.jp/entry/growing-vibes)
 - [デザインシステム運用の雑多な細かいはなし \- freee Developers Blog](https://developers.freee.co.jp/entry/designsystem-iroiro)
 
+#### Wantedly
+
+- [React でデザインシステムを正しく実装する \- コンポーネントカタログを超えて \| Wantedly Engineer Blog](https://www.wantedly.com/companies/wantedly/post_articles/302873)
+
+#### mercari
+
+- [Design System への取り組み 〜Frontend 編〜 \| メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/2019-08-26-090000/)
+
+#### GMO Pepabo
+
+- [ペパボのデザインシステムのドキュメントを公開します \- ペパボテックブログ](https://tech.pepabo.com/2021/04/30/introduction-of-inhouse/)
+
 #### Others
 
+- [Web24 でデザインシステムの話をしました｜ Hiroki Tani ｜ note](https://note.com/hilokit/n/ned8fb65b24d8)
 - [デザインシステムを持たない組織のこれまでの取り組みとこれからを考える｜はのめぐみ｜ note](https://note.com/featherplain/n/n4aa45eb267b6)
 - [デザインシステムの基本の基を考えていくお仕事をしています。｜みーた｜ note](https://note.com/earlgray_mk/n/n67edfbc1073b)
 - [書籍では読めないデザインシステム制作現場のリアルな課題と解決アイデア｜ Tomoyuki Arasuna ｜ note](https://note.com/arasunatomoyuki/n/nea406bd74c3f)
-- [Design System への取り組み 〜Frontend 編〜 \| メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/2019-08-26-090000/)
 - [がんばらないデザインシステム \- MOL](https://t32k.me/mol/log/adaptable-system/)
 - [Pairs のデザインシステムを運用してみて。デザイナー視点のツール編 🛠 \- eureka design](https://eureka.design/articles/design-system-operation/)
 - [フロントエンドエンジニアからはじめるデザインシステム \- UGAP Engineer's Blog](https://ugap.hatenablog.com/entry/2019/07/01/081300)
+
+#### Tool
+
+- [Creating a design system in Figma: a practical guide \| by Marc Andrew \| UX Collective](https://uxdesign.cc/creating-a-design-system-in-figma-cbd01b0d2424)
 - [Abstract を使ってフレキシブルな｢デザインシステム｣を組織に導入する \| Tondemo Design Blog](https://tondemodesign.com/build_design_system/)
 - [一貫性が鍵 \- Figma デザインシステムの構築方法｜ Fmoon ｜ note](https://note.com/fmoon/n/n3bda3574834e)
 - [現役デザイナー直伝！デザイン作業が爆速になる Figma プラグイン手順別まとめ \- PhotoshopVIP](https://photoshopvip.net/126844#phase6)
