@@ -36,6 +36,7 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 
 - [クックパッドのデザイン品質を支える Apron Design System の構築｜ふじけん / kenshir0f ｜ note](https://note.com/fjkn/n/nf73742ec925a)
 - [Citrus – Figma](https://www.figma.com/community/file/847372282968994272)
+- [「UX エンジニア」って何する人？ クックパッド流・開発力を高める DesignOps の進め方 \| SELECK \[セレック\]](https://seleck.cc/1247)
 
 ### CrowdWorks
 
@@ -81,11 +82,20 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 
 - [PIXIV Design System 2021 の発表をしました（前編） \#pixivdevmeetup \- pixiv inside](https://inside.pixiv.blog/2021/07/01/151500)
 
+### READYFOR
+
+- [「TypeScript」を使わない手はない　 READYFOR の UI リニューアルを支えたフロントエンドの技術 \- ログミー Tech](https://logmi.jp/tech/articles/324103)
+
 ### SmartHR
 
 - [SmartHR Design System](https://smarthr.design/)
 - [kufu/smarthr\-ui: React components for creating SmartHR applications\.](https://github.com/kufu/smarthr-ui)
 - [SmartHR UI | Figma](https://www.figma.com/community/file/978607227374353992)
+- [さらば、全てのプロダクトデザイナー。デザインの判断基準をエンジニアが持つための活動とは？｜ Shinichi Kogiso ｜ note](https://note.com/kgsi/n/n9a301ce0d365)
+
+### STORES
+
+- [社内 UI ライブラリの変遷 \- STORES Tech Blog](https://tech.hey.jp/entry/2020/07/31/110856)
 
 ### Wantedly
 
@@ -100,6 +110,10 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [長年のデザイン課題を解決！スマホ Web 版トップページ デザインシステム導入 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/2020120530052930/)
 - [社内システム特化なデザインシステムのメリット 〜 ヤフー社内のデザインシステム紹介 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20190828739980/)
 - [新規事業から大規模事業まで！デザインシステムへの向き合い方とは？ \- Bonfire Design \#3 レポート \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/event/bonfire_design_3/)
+
+### Zaim
+
+- [7 年半運用している Rails サービスに TypeScript \+ React を組み込んだ \#Zaim ｜ naoki85](https://blog.zaim.co.jp/n/nce0ba795193d)
 
 ### Others
 
