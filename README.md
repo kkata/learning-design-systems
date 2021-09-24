@@ -24,6 +24,7 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [ゼロから始めるデザインシステム \- チーム開発を加速させるデザインアプローチ！ \#全文公開｜原田 佳樹 Harada Yoshiki ｜ note](https://note.com/yoshigorou/n/n102e933d4f58)
 - [結局デザインシステムは何なのか : could](https://yasuhisa.com/could/article/what-is-design-system/)
 - [デザインシステムを作る前にデザインのシステムを理解しよう : could](https://yasuhisa.com/could/article/system-of-design/)
+- ["デザインシステム"の過度な一般化とその対応について \- Continuity is The Father of Success](https://blog.dr1009.com/entry/2021/09/23/123000)
 
 ## Cases
 
@@ -46,6 +47,7 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 
 ### CyberAgent
 
+- [Ameba のデザインシステム「Spindle」の全貌公開 \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/31641/)
 - [「Ameba」アイコン刷新　一貫性と再現性追求のための設計術 \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/30048/)
 - [Ameba らしさを体現するためのデザインシステム \- Speaker Deck](https://speakerdeck.com/masatohonda/amebarasisawoti-xian-surutamefalsedezainsisutemu)
 - [「Ameba」15 年の負債を払拭するカラーパレットのメソッド \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/26754/)
@@ -78,6 +80,10 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [Design System への取り組み 〜Frontend 編〜 \| メルカリエンジニアリング](https://engineering.mercari.com/blog/entry/2019-08-26-090000/)
 - [「バラバラになりそうだった」メルカリ UI / UX の認識を Design System にまとめたデザイナーたちの話 \| mercan \(メルカン\)](https://mercan.mercari.com/articles/26192/)
 
+### mikan
+
+- [Figma のリファクタリングからはじめるデザインシステムの構築｜ Torajiro Shiihashi ｜ note](https://note.com/jirosh1998/n/nf7b2f0943e45)
+
 ### pixiv
 
 - [PIXIV Design System 2021 の発表をしました（前編） \#pixivdevmeetup \- pixiv inside](https://inside.pixiv.blog/2021/07/01/151500)
@@ -85,6 +91,10 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 ### READYFOR
 
 - [「TypeScript」を使わない手はない　 READYFOR の UI リニューアルを支えたフロントエンドの技術 \- ログミー Tech](https://logmi.jp/tech/articles/324103)
+
+### Scalebase
+
+- [視認性を意識したデザインシステムのアップデート｜ Tadaki ｜ note](https://note.com/tadaki/n/n14d1f97a3243)
 
 ### SmartHR
 
@@ -95,6 +105,7 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 
 ### STORES
 
+- [ep\.97『フロントエンドに詳しい CTO がいてよかったことは？hey のフロントエンド事情を聞いてみた』 \| UIT INSIDE \- LINE UIT の開発者による「最新のフロントエンド」をキャッチアップできる Podcast](https://uit-inside.linecorp.com/episode/97)
 - [社内 UI ライブラリの変遷 \- STORES Tech Blog](https://tech.hey.jp/entry/2020/07/31/110856)
 
 ### Wantedly
@@ -110,10 +121,6 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [長年のデザイン課題を解決！スマホ Web 版トップページ デザインシステム導入 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/2020120530052930/)
 - [社内システム特化なデザインシステムのメリット 〜 ヤフー社内のデザインシステム紹介 \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/entry/20190828739980/)
 - [新規事業から大規模事業まで！デザインシステムへの向き合い方とは？ \- Bonfire Design \#3 レポート \- Yahoo\! JAPAN Tech Blog](https://techblog.yahoo.co.jp/event/bonfire_design_3/)
-
-### Zaim
-
-- [7 年半運用している Rails サービスに TypeScript \+ React を組み込んだ \#Zaim ｜ naoki85](https://blog.zaim.co.jp/n/nce0ba795193d)
 
 ### Others
 
@@ -134,6 +141,7 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 
 ## Tools
 
+- [zeroheight · document your design systems, together](https://zeroheight.com/)
 - [Toolabs Design System Manager](https://www.toolabs.com/)
 - [Abstract を使ってフレキシブルな｢デザインシステム｣を組織に導入する \| Tondemo Design Blog](https://tondemodesign.com/build_design_system/)
 - [一貫性が鍵 \- Figma デザインシステムの構築方法｜ Fmoon ｜ note](https://note.com/fmoon/n/n3bda3574834e)
