@@ -28,6 +28,11 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 
 ## Cases
 
+### Alp, Inc.
+
+- [業務を効率化させるデザインシステムとは？｜ Tadaki ｜ note](https://note.com/tadaki/n/n1f3354db38f7)
+- [Why に向くためのデザインプロセスとは？｜ Tadaki ｜ note](https://note.com/tadaki/n/nb444c44d9e8b)
+
 ### atama plus
 
 - [2 年半デザインシステムをやってみて、ここ 1 年でぶつかった壁と気づき｜ヌマタ｜ note](https://note.com/n_m_ta/n/nabd690a09e2f)
@@ -54,6 +59,10 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [プロダクトの「色」と向き合う「デザインとエンジニアリング」 \| CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/23447/)
 - [フロントエンド視点：デザイナーと協業して作るスタイルガイドの難易度を下げる \| ygoto3\.com](https://ygoto3.com/posts/make-style-guide-easy/)
 - [UI 開発をアジャイルに行うための Atomic Design](https://www.slideshare.net/ygoto3q/atomic-design-for-agile-ui-development-100961721)
+
+### Eureka, Inc.
+
+- [Pairs のデザインシステムを運用してみて。デザイナー視点のツール編 🛠 \- eureka design](https://eureka.design/articles/design-system-operation/)
 
 ### freee
 
@@ -87,6 +96,7 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 ### pixiv
 
 - [PIXIV Design System 2021 の発表をしました（前編） \#pixivdevmeetup \- pixiv inside](https://inside.pixiv.blog/2021/07/01/151500)
+- [PIXIV Design System 2021 の発表をしました（後編） \#pixivdevmeetup \- pixiv inside](https://inside.pixiv.blog/2021/10/25/165500)
 
 ### READYFOR
 
@@ -127,7 +137,6 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [Web24 でデザインシステムの話をしました｜ Hiroki Tani ｜ note](https://note.com/hilokit/n/ned8fb65b24d8)
 - [書籍では読めないデザインシステム制作現場のリアルな課題と解決アイデア｜ Tomoyuki Arasuna ｜ note](https://note.com/arasunatomoyuki/n/nea406bd74c3f)
 - [がんばらないデザインシステム \- MOL](https://t32k.me/mol/log/adaptable-system/)
-- [Pairs のデザインシステムを運用してみて。デザイナー視点のツール編 🛠 \- eureka design](https://eureka.design/articles/design-system-operation/)
 - [フロントエンドエンジニアからはじめるデザインシステム \- UGAP Engineer's Blog](https://ugap.hatenablog.com/entry/2019/07/01/081300)
 
 ## Knowhow
@@ -154,3 +163,4 @@ at [https://frontendmasters.com/](https://frontendmasters.com/) .
 - [Creating a design system in Figma: a practical guide \| by Marc Andrew \| UX Collective](https://uxdesign.cc/creating-a-design-system-in-figma-cbd01b0d2424)
 - [sturobson/Awesome\-Design\-Tokens: A list of resources on all things to do with Design Tokens](https://github.com/sturobson/Awesome-Design-Tokens)
 - [Home \| Design Tokens W3C Community Group](https://www.designtokens.org/)
+- [storybookjs/design\-system: 🗃 Storybook Design System](https://github.com/storybookjs/design-system)
